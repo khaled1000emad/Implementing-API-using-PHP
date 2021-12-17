@@ -1,0 +1,16 @@
+.div-style{
+   margin: 30px;
+   border-bottom: 3px solid red;
+}
+
+#form{
+   margin: 30px;
+}
+#add-form{
+   text-align: center;
+   margin: 30px;
+}
+
+#del-form{
+   margin: 30px;
+}
