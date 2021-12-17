@@ -1,5 +1,5 @@
 # Implementing-API-using-PHP
-This is a simple web app which uses an API to get data from a database, this was created using php to understand what reaally API is and how does it work
+This is a simple web app which uses an API to get data from a database, this was created using php to understand what reaally API is and how does it work, I also used `fetch` API in order to display results in the web app
 
 
 ## The Webapp
